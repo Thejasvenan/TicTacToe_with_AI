@@ -6,15 +6,15 @@ glob llm = Model(model_name="gemini/gemini-2.0-flash", verbose=False);
 
 
 """Provide exciting commentary for a Tic Tac Toe move"""
-def move_commentary(player: str, position: int, board_state: list) -> str byllm();
+def move_commentary(player: str, position: int, board_state: list) -> str by llm();
 
 
 """Analyze the current game state and provide strategic insight"""
-def game_analysis(board_state: list, current_player: str) -> str byllm();
+def game_analysis(board_state: list, current_player: str) -> str by llm();
 
 
 """Generate the best move for AI player O"""
-def ai_move_generator(board_state: list) -> int byllm();
+def ai_move_generator(board_state: list) -> int by llm();
 
 
 walker TicTacToe {
