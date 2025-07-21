@@ -1,3 +1,4 @@
+## Team TriNetics 🦾 Presents
 # 🎮 Tic Tac Toe with AI Commentary
 
 An intelligent Tic Tac Toe game built using **Jac Language** and powered by **Google's Gemini LLM** for dynamic, real-time commentary and strategic insights.
